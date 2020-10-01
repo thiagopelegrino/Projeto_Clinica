@@ -1,0 +1,13 @@
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.deps.json
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.dll
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.pdb
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Domain.dll
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\bin\Debug\netcoreapp2.1\Projeto.Domain.pdb
+C:\Users\Thiago\Desktop\Projeto Final\ProjetoFinal\Projeto.Infra.Data\obj\Debug\netcoreapp2.1\Projeto.Infra.Data.csproj.CopyComplete
